@@ -1,0 +1,6 @@
+
+squad_es/dataset_dict.json
+*.arrow
+*.json
+*.csv
+*.gz

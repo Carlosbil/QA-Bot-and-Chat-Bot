@@ -1,5 +1,5 @@
 # BDP
- ChatBots based on bert
+ ChatBots based on bert, every step is fully explained inside the ipynb 
 
  ## BDPBot
  English lenguage bot, trained to answer questions in english

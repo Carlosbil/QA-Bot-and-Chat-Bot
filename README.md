@@ -18,3 +18,9 @@
    - Question
    - Context
    - Answers (array of possible answers)
+
+## Tokenize
+For this enhacement i have used the bert tokenizer, and apply it to the 3 columns, if you want to build a model that select an answer
+you could not tokenize answers column.
+
+Once it is tokenized, all the dataset are tensors of pytorch, letting me to use it, even with CUDA to process all the information faster

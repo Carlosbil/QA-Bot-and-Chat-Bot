@@ -7,3 +7,5 @@ squad_es/dataset_dict.json
 *.pyd
 *.dll
 *.exe
+test.pkl
+train.pkl

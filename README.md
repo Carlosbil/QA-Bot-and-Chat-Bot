@@ -1,14 +1,11 @@
 # BDP
  ChatBots based on bert, every step is fully explained inside the ipynb 
 
- ## BDPBot
- English lenguage bot, trained to answer questions in english
- 
- ## BDP_ESPBot
- Spanish lenguage bot, trained to answer questions in spanish
+ ## BDP_Chatbot
+ English lenguage bot, trained to be able to speak and answer questions without context. Based on T5
 
- ## BDP_MultilingualBot
- English an Spanish bot, trained to answer questions in spanish and english
+ ## BDP_MultilingualQA
+ English an Spanish bot, trained to answer questions in spanish and english, required context. Based on BERT
 
  ## Datasets
  For this chatbot has been used the following datasets:

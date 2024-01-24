@@ -1,6 +1,6 @@
 # BDP
  ChatBots based on bert, every step is fully explained inside the ipynb 
-
+ As I don't have enough resources to tune this great model, I'm going to make a stand by on this project for a while. on this project for a while
  ## BDP_Chatbot
  English lenguage bot, trained to be able to speak and answer questions without context. Based on T5
 
